@@ -18,3 +18,9 @@ __pycache__/
 *.json
 
 op_rag_venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# .egg_info directories
+*.egg-info/
