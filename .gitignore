@@ -24,3 +24,6 @@ op_rag_venv
 
 # .egg_info directories
 *.egg-info/
+
+# txt files
+*.txt
