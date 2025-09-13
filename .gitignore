@@ -27,3 +27,8 @@ op_rag_venv
 
 # txt files
 *.txt
+
+
+# json and jsonl
+*.json
+*.jsonl
