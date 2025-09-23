@@ -35,3 +35,6 @@ op_rag_venv
 
 # npy files
 *.npy
+
+# .env
+.env
