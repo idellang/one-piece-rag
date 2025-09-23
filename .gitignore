@@ -32,3 +32,6 @@ op_rag_venv
 # json and jsonl
 *.json
 *.jsonl
+
+# npy files
+*.npy
